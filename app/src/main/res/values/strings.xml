@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string-array name="quotes">
+
+                <item>"The only thing we have to fear is fear itself." - Franklin D. Roosevelt</item>
+                <item>"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.</item>
+                <item>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson</item>
+                <item>"The only true wisdom is in knowing you know nothing." - Socrates</item>
+                <item>"Life is what happens when you're busy making other plans." - John Lennon</item>
+                <item>"You miss 100% of the shots you don't take." - Wayne Gretzky</item>
+                <item>"The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela</item>
+                <item>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson</item>
+                <item>"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt</item>
+                <item>"In three words I can sum up everything I've learned about life: it goes on." - Robert Frost</item>
+                <item>"It does not matter how slowly you go as long as you do not stop." - Confucius</item>
+                <item>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</item>
+                <item>"The only way to do great work is to love what you do." - Steve Jobs</item>
+                <item>"The purpose of our lives is to be happy." - Dalai Lama</item>
+                <item>"Life is what happens when you're busy making other plans." - John Lennon</item>
+                <item>"Get busy living or get busy dying." - Stephen King</item>
+                <item>"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy</item>
+                <item>"You miss 100% of the shots you don't take." - Wayne Gretzky</item>
+                <item>"You only live once, but if you do it right, once is enough." - Mae West</item>
+                <item>"The best revenge is massive success." - Frank Sinatra</item>
+                <item>"Life is either a daring adventure or nothing at all." - Helen Keller</item>
+                <item>"The best way to predict the future is to invent it." - Alan Kay</item>
+                <item>"Do not go where the path may lead, go instead where there is no path and leave a trail." - Ralph Waldo Emerson</item>
+                <item>"The journey of a thousand miles begins with one step." - Lao Tzu</item>
+                <item>"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.</item>
+                <item>"The only thing we have to fear is fear itself." - Franklin D. Roosevelt</item>
+                <item>"The only true wisdom is in knowing you know nothing." - Socrates</item>
+                <item>"It's not the years in your life that count. It's the life in your years." - Abraham Lincoln</item>
+                <item>"The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela</item>
+                <item>"Life is really simple, but we insist on making it complicated." - Confucius</item>
+                <item>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson</item>
+                <item>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</item>
+                <item>"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt</item>
+                <item>"In three words I can sum up everything I've learned about life: it goes on." - Robert Frost</item>
+                <item>"It does not matter how slowly you go as long as you do not stop." - Confucius</item>
+                <item>"The only way to do great work is to love what you do." - Steve Jobs</item>
+                <item>"The purpose of our lives is to be happy." - Dalai Lama</item>
+                <item>"Life is what happens when you're busy making other plans." - John Lennon</item>
+                <item>"Get busy living or get busy dying." - Stephen King</item>
+                <item>"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy</item>
+                <item>"You miss 100% of the shots you don't take." - Wayne Gretzky</item>
+                <item>"You only live once, but if you do it right, once is enough." - Mae West</item>
+                <item>"The best revenge is massive success." - Frank Sinatra</item>
+                <item>"Life is either a daring adventure or nothing at all." - Helen Keller</item>
+                <item>"The best way to predict the future is to invent it." - Alan Kay</item>
+                <item>"Do not go where the path may lead, go instead where there is no path and leave a trail." - Ralph Waldo Emerson</item>
+                <item>"The journey of a thousand miles begins with one step." - Lao Tzu</item>
+                <item>"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.</item>
+                <item>"The only thing we have to fear is fear itself." - Franklin D. Roosevelt</item>
+                <item>"The only true wisdom is in knowing you know nothing." - Socrates</item>
+
+    </string-array>
+</resources>
