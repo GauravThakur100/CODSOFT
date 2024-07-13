@@ -7,10 +7,6 @@ QuoteFire is an Android application that provides users with a random quote from
 - **Random Quote Generator**: Display a random quote from an array of quotes.
 - **Share Quotes**: Easily share your favorite quotes with others via social media or messaging apps.
 
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
 
 ## Installation
 
